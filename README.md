@@ -11,6 +11,6 @@
 6.  - in last give your chart name(folder name is name of your chart that is "flask_linux_cmd/").
 7. Run command "kubectl get svc" and get the port number
 8. Search in Browser "https://<instance_public_ip>:<svc_port_number>".
-9. finally u can access your page and run linux commands.
+9. Finally u can access your page and run linux commands.
 10.  
 
