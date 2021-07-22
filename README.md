@@ -14,5 +14,5 @@
 9. Finally u can access your page and run linux commands.
 
 ##For more Detail go through the Blog:-
-Blog Link:- https://buddhijainmadhorajpura72.medium.com/helm-chart-for-run-linux-commands-57368c11d4dd
+❗Blog Link:- https://buddhijainmadhorajpura72.medium.com/helm-chart-for-run-linux-commands-57368c11d4dd
 
